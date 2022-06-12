@@ -38,10 +38,10 @@ h2{
 .contacts{
     margin: 0;
     padding: 0;
-    list-style: none;
+    list-style-type: none;
 }
 
-.contacts{
+.contacts li {
     width: 30px;
     display: inline-block;
     padding: 20px 10px;
